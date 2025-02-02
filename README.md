@@ -25,4 +25,4 @@ Puedes usar estas ilustraciones para proyectos personales, como fondos de pantal
 
 ## Contacto
 
-Si deseas contactarme para cualquier consulta o simplemente para compartir cómo has utilizado mis ilustraciones, puedes hacerlo a través de cualquiera de [mis redes](https://iniz.lol).
+Si deseas compartir cómo has utilizado las ilustraciones, puedes hacerlo a través de cualquiera de [nuestras redes](https://iniz.lol). Al igual que cualquier consulta que tengas.
