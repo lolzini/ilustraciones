@@ -14,7 +14,7 @@ Este repositorio y todas las ilustraciones contenidas en él están bajo la lice
 
 - **👁️ Bajo las siguientes condiciones:**
   - **☑️ Atribución** — Es **opcional** dar crédito de manera adecuada y brindar un enlace a la licencia.
-  - **☑️ Modificaciones**: Debes indicar si se han realizado cambios. Puedes hacerlo de cualquier manera razonable, siempre y cuando no sugiera el producto te pertenece.
+  - **☑️ Modificaciones**: Debes indicar si se han realizado cambios. Puedes hacerlo de cualquier manera razonable, siempre y cuando no sugiera que el producto te pertenece.
   - **🚫 No Comercial** — No puedes utilizar el material con fines comerciales.
 
 Para más detalles sobre la licencia, visita [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
